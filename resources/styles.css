@@ -9,9 +9,42 @@ html {
 h1 {
     font-weight: normal;
     font-size: 50px;   
-
 }
+
+h2 {
+    font-family: Verdana;
+    font-weight: 300;
+    font-size: 2.625rem;
+}
+
+p {
+    font-family: Verdana;
+    color: gray;
+    font-size: 21px;
+}
+
+
+
 
 .Downloadlink {
     color: aquamarine;
+}
+
+.Downloadlink-none {
+    text-decoration: none; 
+}
+
+.container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.logo {
+    margin-top: 30px;
+}
+
+.copyright {
+    text-align: right;
+    
 }
