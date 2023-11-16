@@ -1,0 +1,17 @@
+html {
+    font-family: Verdana;
+    font-size: 16px;
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+h1 {
+    font-weight: normal;
+    font-size: 50px;   
+
+}
+
+.Downloadlink {
+    color: aquamarine;
+}
